@@ -1,0 +1,10 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+**/bin/**
+**/obj/**
+
+# VS code related files
+.vscode
